@@ -1,0 +1,19 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+	},
+	{
+		"ParameterKey": "LaunchTemplateVersion",
+		"ParameterValue": "1"
+	}
+	,
+	{
+		"ParameterKey": "ImageId",
+		"ParameterValue": "ami-0729e439b6769d6ab"
+	},
+	{
+		"ParameterKey": "S3Bucket",
+		"ParameterValue": "udagram-47"
+	}
+]
